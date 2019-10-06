@@ -1,9 +1,9 @@
 # Trelet ~ The Land of Words #
+![](jump.gif)
+
 This is a platformer that is also a Scrabble-style word puzzle game. You place letters to make blocks that act as platforms to help you reach the goal.
 
 This is just the Source Code. You can run the game using [LÖVE](https://love2d.org/) or download Windows and Mac executables [here](https://ovidios.itch.io/trelet).
-
-
 
 ## General Info
 
